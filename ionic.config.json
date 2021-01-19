@@ -1,0 +1,8 @@
+{
+  "name": "InstaXDown",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}
